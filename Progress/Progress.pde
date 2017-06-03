@@ -19,12 +19,12 @@ public void draw()
 
 public class JProgress extends JFrame implements ActionListener
 {
-  private Timer 			timer;
-  private JButton 		startButton;
-  private JButton 		stopButton;
-  private JProgressBar 	bar;
-  private JLabel 		 	label;
-  private int 			count;
+  private Timer         timer;
+  private JButton       startButton;
+  private JButton       stopButton;
+  private JProgressBar  bar;
+  private JLabel        label;
+  private int           count;
 
   private JProgress()
   {
